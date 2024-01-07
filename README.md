@@ -1,2 +1,2 @@
 # Different_Topologies_In_BST
- Prints the number sequences that make up the same topology as the tree created by the number sequence entered by the user.
+Developing an algorithm that builds a binary search tree (BST) from a given sequence and attemps to find other sequences that yield the same BST topology.
